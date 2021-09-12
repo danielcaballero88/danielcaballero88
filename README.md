@@ -8,9 +8,9 @@ Cheers!
 
 [1]: https://danielcaballero88.github.io/cv/cv.pdf
 
-- 🔭 I’m currently working as *Data Analyst*
-- 🌱 I’m currently learning *Machine Learning* and *Backend Development*
-- 👯 I’m looking to collaborate on *Data Science* projects.
+- 🔭 I’m currently working as *Fullstack Software Developer* in Stockholm, Sweden.
+- 🌱 I’m learning about *Kubernetes*, *Kafka*, *Angular*, and more... 
+- 👯 I’m looking to collaborate on *Data Driven* projects.
 - 📫 How to reach me: danielcaballero88@gmail.com
 
 <!--
