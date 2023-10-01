@@ -3,27 +3,7 @@
 I'm Daniel Caballero and this is my github profile.  
 I haven't got the time to complete this with all the details I'd like to show.
 
-For the moment you can check out [my CV/resume][1] in PDF format.   
+For the moment you can check out [my personal website][1].   
 Cheers!
 
-[1]: https://danielcaballero88.github.io/cv/cv.pdf
-
-- 🔭 I’m currently working as *Fullstack Software Developer* in Stockholm, Sweden.
-- 🌱 I’m learning about *Kubernetes*, *Kafka*, *Angular*, and more... 
-- 👯 I’m looking to collaborate on *Data Driven* projects.
-- 📫 How to reach me: danielcaballero88@gmail.com
-
-<!--
-**danielcaballero88/danielcaballero88** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+[1]: https://danielcaballero88.github.io/
